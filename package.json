@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Emmanuel Chidera",
+	"author" : "EMEKAOGBOR Emmanuel Chidera",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
