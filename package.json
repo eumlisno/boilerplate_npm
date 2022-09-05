@@ -4,6 +4,7 @@
 	"description": "Well something about to happen",
 	"keywords": ["freecodecamp", "node", "express"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
